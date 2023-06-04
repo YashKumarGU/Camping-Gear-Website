@@ -1,2 +1,2 @@
-# Simple-Landing-Page-1
-A Simple Traveling Website Landing Page Using HTML &amp; CSS.
+# Simple-Traveling-Website
+A Simple Traveling Website Using HTML &amp; CSS.
